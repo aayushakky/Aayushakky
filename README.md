@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AAYUSH KUMAR</h1>
-<h3 align="center">I am currently pursuing MCA(MASTER OF COMPUTER APPLICATION)3rd Semester At Haldia institute of technology.</h3>
+<h3 align="center">I am currently pursuing MCA(MASTER OF COMPUTER APPLICATION) Final year student At Haldia institute of technology.</h3>
 
 - 📫 How to reach me **aayushk698@gmail.com**
 
