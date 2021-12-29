@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm AAYUSH KUMAR</h1>
-<h3 align="center">I am currently pursuing MCA(MASTER OF COMPUTER APPLICATION) Final year student At Haldia institute of technology.</h3>
+ # <p align="center">Hey, I'm <a href="https://aayushakky.github.io/profile/" target="_blank">Aayush!</a><img src="hi.gif" width="29px">
+</p>
+
+ <p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to++my+GitHub+Profile!;Feel+free+to+Connect+with+me!;Thank+you!&font=Fira%20Code&center=true&width=380&height=50">
+
+</p>
+
+## About Me 🚀
+
+- :man_student: I am a final year student of MCA (Master of computer Applications) at Haldia Institute of technology.
 
 - 📫 How to reach me **aayushk698@gmail.com**
 
