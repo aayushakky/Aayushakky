@@ -9,11 +9,11 @@
 
 ## About Me 🚀
 
-- :man_student: I am a final year student of MCA (Master of computer Applications) at Haldia Institute of technology.
+- :man_student: I completed  MCA (Master of computer Applications) at Haldia Institute of technology.
 
 - 📫 How to reach me **aayushk698@gmail.com**
 
-- 📄 Know about my experiences [https://app.luminpdf.com/viewer/613fa299e2b6a900128a362c](https://drive.google.com/file/d/1XBv3VKk3cf5YNz-mTt6plrA32nsB2fRe/view?usp=sharing)
+- 📄 Know about my experiences [https://app.luminpdf.com/viewer/613fa299e2b6a900128a362c](https://drive.google.com/file/d/1LTRMp7vNiUh1DOBtabxpzCExPZmiMwVw/view)
 
 - ⚡ Fun fact **I think i am like a Kid**
 
