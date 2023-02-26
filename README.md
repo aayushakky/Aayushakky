@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aayushk698@gmail.com**
 
-- 📄 Know about my experiences [https://app.luminpdf.com/viewer/613fa299e2b6a900128a362c](https://drive.google.com/file/d/1LTRMp7vNiUh1DOBtabxpzCExPZmiMwVw/view)](https://drive.google.com/file/d/1wuBV7Q9Fkq2yj5nFOWtxu91lIm2V3hXw/view?usp=share_link)]
+- 📄 Know about my experiences [https://app.luminpdf.com/viewer/613fa299e2b6a900128a362c](https://drive.google.com/file/d/1LTRMp7vNiUh1DOBtabxpzCExPZmiMwVw/view)]
 
 - ⚡ Fun fact **I think i am like a Kid**
 
