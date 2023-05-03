@@ -63,7 +63,7 @@
 ## 📈 Stats :
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Krishnapro&count_private=true&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aayushakky&count_private=true&show_icons=true&theme=tokyonight"/>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushakky&theme=tokyonight"/>
 </p></br>
 <table>
