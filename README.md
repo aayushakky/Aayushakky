@@ -1,4 +1,4 @@
- # <p align="center">Hey, I'm <a href="https://aayushakky.github.io/profile/" target="_blank">Aayush Kumar!</a><img src="hi.gif" width="29px">
+ # <p align="center">Hey, I'm <a href="https://aayushakky.github.io/Portfolio/" target="_blank">Aayush Kumar!</a><img src="hi.gif" width="29px">
 </p>
 
  <p align="center">
