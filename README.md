@@ -22,9 +22,7 @@
 
 ## About Me 🚀
 
-- :man_student: I completed  MCA (Master of computer Applications) at Haldia Institute of technology.
-
-- ⚡ Fresher, am looking for a job ..
+- :man_student:  I am a Software Engineer with a FileNet admin specialization and Datacap I currently work at TurnPikeAnalyst as a Software Engineer...
 
 - 💻 I am passionate about Web development, and I enjoy learning new things.
 
