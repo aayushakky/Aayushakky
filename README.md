@@ -26,7 +26,7 @@
 
 - 💻 I am passionate about Web development, and I enjoy learning new things.
 
-- 📄 Know about my experiences...  <a href="https://drive.google.com/file/d/1wuBV7Q9Fkq2yj5nFOWtxu91lIm2V3hXw/view(https://drive.google.com/file/d/11yYwb2ZO6p1BXlc0r88To93sIowW_uAY/view?usp=sharing)">![Resume](https://img.shields.io/badge/Resume-FF0000.svg?style=for-the-badge&logo=Resume&logoColor=white)</a> 
+- 📄 Know about my experiences...  <a href="https://drive.google.com/file/d/11yYwb2ZO6p1BXlc0r88To93sIowW_uAY/view?usp=sharing">![Resume](https://img.shields.io/badge/Resume-FF0000.svg?style=for-the-badge&logo=Resume&logoColor=white)</a> 
 
 
 
