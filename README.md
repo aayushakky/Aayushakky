@@ -22,8 +22,8 @@
 
 ## About Me 🚀
 
-- :man_student:  I am a Software Engineer with a FileNet admin specialization and Datacap I currently work at TurnPikeAnalyst as a Software Engineer...
-
+- :man_student:  I am a Software Engineer specializing in FileNet Administrator and development. With 1 year and 3 months of experience at TurnPikeAnalyst, I have gained expertise in FileNet P8 Installation and Configuration, designing and developing custom FileNet solutions, implementing and configuring IBM FileNet P8 components, creating custom workflows, content models, and security models, and integrating FileNet with other systems using APIs and web services
+  
 - 💻 I am passionate about Web development, and I enjoy learning new things.
 
 - 📄 Know about my experiences...  <a href="https://drive.google.com/file/d/11yYwb2ZO6p1BXlc0r88To93sIowW_uAY/view?usp=sharing">![Resume](https://img.shields.io/badge/Resume-FF0000.svg?style=for-the-badge&logo=Resume&logoColor=white)</a> 
@@ -41,19 +41,26 @@
 
 ## ⚡ Tech Stack
 
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![OOPS](https://img.shields.io/badge/OOPS-3B5998?style=flat-square&logo=OOPS&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
+![OOPS](https://img.shields.io/badge/oops-3670A0?style=for-the-badge&logo=oops&logoColor=ffdd54)
 
+## IBM Tools : 
+![FileNet](https://img.shields.io/badge/FileNet-2962FF?style=for-the-badge&logo=FileNet&logoColor=white) 
+![WebSphare Application Server](https://img.shields.io/badge/WebSphareApplicationServer-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white) 
+
+## Database
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
 ### Cloud Tools :
 
-<a href="https://github.com/aayushakky"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"> </a>![Git](https://img.shields.io/badge/-Git-black?&logo=git) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
 <!-- <h3 align="left">Tech Stack:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg" alt="css" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="40" height="40"/><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p> -->
