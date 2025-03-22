@@ -50,8 +50,16 @@ I hold a Master of Computer Applications (MCA) from Haldia Institute of Technolo
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
 ![OOPS](https://img.shields.io/badge/oops-3670A0?style=for-the-badge&logo=oops&logoColor=ffdd54)
+
+
+## OS :
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+
+
 
 ## IBM Tools : 
 ![FileNet](https://img.shields.io/badge/FileNet-2962FF?style=for-the-badge&logo=FileNet&logoColor=white) 
@@ -60,9 +68,9 @@ I hold a Master of Computer Applications (MCA) from Haldia Institute of Technolo
 ![Datacap](https://img.shields.io/badge/Datacap-054ADA?style=for-the-badge&logo=Datacap&logoColor=white) 
 
 ## Database
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-![DB2](https://img.shields.io/badge/Datacap-054ADA?style=for-the-badge&logo=Datacap&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![IBM Db2](https://img.shields.io/badge/IBM%20Db2-054ADA?style=for-the-badge&logo=IBM&logoColor=white)
 
 ### Cloud Tools :
 
