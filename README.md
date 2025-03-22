@@ -56,10 +56,13 @@ I hold a Master of Computer Applications (MCA) from Haldia Institute of Technolo
 ## IBM Tools : 
 ![FileNet](https://img.shields.io/badge/FileNet-2962FF?style=for-the-badge&logo=FileNet&logoColor=white) 
 ![WebSphare Application Server](https://img.shields.io/badge/WebSphareApplicationServer-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white) 
+![IBM Content Navigator](https://img.shields.io/badge/ICN-2962FF?style=for-the-badge&logo=ICN&logoColor=white) 
+![Datacap](https://img.shields.io/badge/Datacap-054ADA?style=for-the-badge&logo=Datacap&logoColor=white) 
 
 ## Database
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![DB2](https://img.shields.io/badge/Datacap-054ADA?style=for-the-badge&logo=Datacap&logoColor=white)
 
 ### Cloud Tools :
 
