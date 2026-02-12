@@ -22,9 +22,9 @@
 
 ## About Me 🚀
 
-- :man_student:  I am an IT Specialist at SlashCurate Technologies Private Limited, specializing in FileNet administration across Linux and Windows environments. My expertise includes the installation, configuration, and upgrade of IBM FileNet P8, along with WebSphere Application Server (WAS), IBM Content Navigator (ICN), and Datacap, ensuring seamless enterprise content management and system optimization.
+- :man_student:  I am an IT Specialist at SlashCurate Technologies Private Limited, specializing in ECM across Linux and Windows environments. My expertise includes the installation, configuration,upgradation, and Migration of IBM FileNet P8, along with WebSphere Application Server (WAS), IBM Content Navigator (ICN), and Datacap, ensuring seamless enterprise content management and system optimization.
 
-Previously, I worked as a Software Engineer (FileNet Administrator/Developer) at TurnPikeAnalyst LLC for 1 year and 3 months. During this tenure, I gained hands-on experience in FileNet P8 deployment, designing and implementing custom FileNet solutions, configuring IBM FileNet P8 components, developing custom workflows, content models, and security models, and integrating FileNet with external systems using APIs and web services.
+Previously, I worked as a Software Engineer (FileNet Administrator/Developer) at TurnPikeAnalyst LLC for 2 year  During this tenure, I gained hands-on experience in FileNet P8 deployment, designing and implementing custom FileNet solutions, configuring IBM FileNet P8 components, developing custom workflows, content models, and security models, and integrating FileNet with external systems using APIs and web services.
 
 I hold a Master of Computer Applications (MCA) from Haldia Institute of Technology, where I built a strong foundation in software development, enterprise content management, and system architecture.
   
